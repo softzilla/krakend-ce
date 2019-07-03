@@ -1601,7 +1601,10 @@
     "github.com/devopsfaith/krakend/transport/http/client",
     "github.com/gin-gonic/gin",
     "github.com/go-contrib/uuid",
+    "github.com/google/martian/parse",
+    "github.com/json-iterator/go",
     "github.com/letgoapp/krakend-influx",
+    "github.com/pkg/errors",
   ]
   solver-name = "gps-cdcl"
   solver-version = 1
